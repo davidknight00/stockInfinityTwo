@@ -1,6 +1,6 @@
 import React from "react";
 
-const Account = () => {
+const Home = () => {
     return (
         <div style={{
             display: 'flex',
@@ -9,9 +9,9 @@ const Account = () => {
             height: '100vh'
         }}
         >
-            <h1>My Account</h1>
+            <h1>Welcome to Stock Infinity 2!</h1>
         </div>
     );
 };
 
-export default Account;
+export default Home;
